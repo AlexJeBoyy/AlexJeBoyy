@@ -1,6 +1,6 @@
 ### Hi, I'm Alex. 
 Im a student and currently working on a couple of games for school and some personal games.
-
+<br>
 I'm learning mostly c# right now.
 
 <!--
