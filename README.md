@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Alex. 
+Im a student and currently working on a couple of games for school and some personal games.
+I'm learning mostly c# right now.
 
 <!--
 **AlexJeBoyy/AlexJeBoyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
