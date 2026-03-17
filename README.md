@@ -3,7 +3,7 @@ Im a student and currently working on a couple of games for school and some pers
 <br>
 I'm learning mostly c# and unity right now.
 <br> 
-[Portfolio](alexjeboyy.github.io/Portfolio/)
+[Portfolio](https://alexjeboyy.github.io/Portfolio/)
 
 
 <!--
