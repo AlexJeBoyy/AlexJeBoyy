@@ -2,7 +2,9 @@
 Im a student and currently working on a couple of games for school and some personal games.
 <br>
 I'm learning mostly c# and unity right now.
-alexjeboyy.github.io/Portfolio/ 
+<br> 
+[Portfolio](alexjeboyy.github.io/Portfolio/)
+
 
 <!--
 **AlexJeBoyy/AlexJeBoyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
